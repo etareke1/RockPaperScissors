@@ -75,3 +75,4 @@ function game() {
     else alert("Theres no winner this time :/")
 }
 
+game();
